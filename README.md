@@ -1,4 +1,4 @@
-# ESP8266-WEB-SERVER secara Acces Point
+# ESP8266-WEB-SERVER secara Access Point
 On Off LED dari Web Server menggunakan ESP8266
 
 Pertama, install library yang dibutuhkan
